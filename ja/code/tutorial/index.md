@@ -54,4 +54,4 @@ image: https://projectsprint.org/images/pjs_og.png
 ---
 
 ##### Project Sprint Top
-- [Top](../ja/index.md)
+- [Top](/ja/index.md)

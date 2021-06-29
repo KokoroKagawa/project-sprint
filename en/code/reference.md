@@ -45,3 +45,8 @@ This is a theory developed by Carl Weik and others. I agree with the idea of foc
 - [Tips](./tips/index.md)
 - [Advance](./advance.md)
 - Reference
+
+---
+
+##### Project Sprint Top
+- [Top](/en/index.md)

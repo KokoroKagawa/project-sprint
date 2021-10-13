@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips4: Preparing Project Environments"
+title: "Preparing Project Environments"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

@@ -8,20 +8,28 @@ This set of documents contains detailed and in-depth explanations of Project Spr
 
 ### Table of Contents
 
-1. [Useful Concepts for Organizing the Project Timeline (tracks/phases/events)](tips1.md)
-2. [Using a Milestone Map](tips2.md)
-3. [What Are Some of the Things That Are Produced in a Project(outputs/deliverables)](tips3.md)
-4. [Preparing Project Environments](tips4.md)
-5. [Setting Up Roles That Are Easy to Use in Practice](tips5.md)
-6. [Using a Roll Sheet](tips6.md)
-7. [Know-How About the Meeting Environment](tips7.md)
-8. [All Elements That Should be Included in the Agenda](tips8.md)
-9. [Typical Looking Back Techniques](tips9.md)
-10. [Tension Triage Methods](tips10.md)
-11. [How to Set Tasks in a Way That Makes Sense to the Team and Is Efficient](tips11.md)
-12. [Why Meetings Should Be Held on a Regular Basis](tips12.md)
-13. [Classification and Properties of Roles](tips13.md)
-14. [The Purpose of an Agenda](tips14.md)
+#### Project Environment   
+
+1. [Preparing The Project Environment](tips4.md)
+2. [Useful Concepts for Organizing Project Timelines (Tracks/Phases/Events)](tips1.md)
+3. [How to Set Up Tasks That Make Sense and Work Efficiently for a Team](tips11.md)
+4. [Setting Up Roles That Are Easy to Use in Practice](tips5.md)
+5. [Classification and Properties of Roles](tips13.md)
+#### Progress Domain   
+6. [Using Mailstones Maps](tips2.md)
+7. [What Some of the Things That Are Produced in The Project (Outputs/Artifacts) Are](tips3.md)   
+#### Process Domain   
+8. [Why Hold Regular Meetings](tips12.md)   
+#### Meeting
+9. [Knowledge About the Meeting Environment](tips7.md)
+11. [All Elements That Should be Included in the Agenda](tips8.md)   
+12. [The Purpose of an Agenda](tips14.md)  
+#### Meeting
+13. [Definition of a Team](tips15.md)
+14. [How to Use a Role Sheet](tips6.md)
+15. [Continuous Improvement Approach](tips16.md)
+16. [Typical Reflection Methods](tips9.md)
+17. [Tension Triage Methods](tips10.md)
 
 ---
 

@@ -24,7 +24,7 @@ By repeating the progress, teaming activities,and processes regularly or iterati
 ## Status
 The goal of the project is to bring the status of progress and teaming closer to the ideal state.
 
-The project team aims to bring the progress status closer to **the achievement of the project goal**.This means incremental delivery of deliverables from the current point to the ideal endpoint of the project. By specifying specific points in the future, called milestones, we can be sure that we are on the right path to the final destination.The goal of the project is to bring the status of progress and teaming closer to the ideal state.
+The project team's goal is to move progress status closer to achieving the project's goals. It involves iterative and incremental delivery of deliverables from the current point to the ideal project endpoint. In other words, the deliverables are created in stages, separated by a certain time to review the progress, the big picture, and the path to be taken. A specific point in the future is called a milestone, and by making it explicit, we can confirm the certainty of the path toward the final goal.
 
 Progress status is ascertained by whether or not milestones have been achieved.
 

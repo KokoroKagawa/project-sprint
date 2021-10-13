@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips10: Tension Triage Methods"
+title: "Tension Triage Methods"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

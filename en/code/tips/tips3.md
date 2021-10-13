@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips3: What Are Some of the Things That Are Produced in a Project（outputs/deliverables）"
+title: "What Are Some of the Things That Are Produced in a Project（outputs/deliverables）"
 image: https://projectsprint.org/images/pjs_og.png
 ---
 

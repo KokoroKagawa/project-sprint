@@ -30,7 +30,7 @@ image: https://projectsprint.org/images/pjs_og.png
 
 - [ミーティングの準備をする](section3-1.md)
 - [ミーティングを開催する](section3-2.md)
-  - [タスクを設定する](section3-2-1.md)
+- [タスクを設定する](section3-2-1.md)
 - [ミーティング環境についてのノウハウ](section3-3.md)
 
 #### 改善しよう
